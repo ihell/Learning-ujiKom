@@ -1,0 +1,5 @@
+C:\Users\ThinkPad\learning-ujiKom\CalculatorServer\obj\Debug\net9.0\CalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\learning-ujiKom\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\learning-ujiKom\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfo.cs
+C:\Users\ThinkPad\learning-ujiKom\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\learning-ujiKom\CalculatorServer\obj\Debug\net9.0\CalculatorServer.MvcApplicationPartsAssemblyInfo.cache
