@@ -1,4 +1,3 @@
-// Program.cs
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Hosting;
@@ -6,7 +5,6 @@ using Microsoft.Extensions.Hosting;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-// API Endpoint untuk perhitungan
 app.MapPost("/calculate", async (HttpContext context) =>
 {
     var formData = await context.Request.ReadFromJsonAsync<CalculationRequest>();
@@ -25,7 +23,6 @@ app.MapPost("/calculate", async (HttpContext context) =>
     return Results.Json(new { Result = result });
 });
 
-// Model untuk menerima data dari client
-public record CalculationRequest(double Number1, double Number2, string Operation);
-
 app.Run();
+
+public record CalculationRequest(double Number1, double Number2, string Operation);

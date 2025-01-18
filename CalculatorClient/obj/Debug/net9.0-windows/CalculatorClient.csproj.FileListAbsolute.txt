@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.AssemblyInfo.cs
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.sourcelink.json
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\bin\Debug\net9.0-windows\CalculatorClient.exe
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\bin\Debug\net9.0-windows\CalculatorClient.deps.json
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\bin\Debug\net9.0-windows\CalculatorClient.runtimeconfig.json
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\bin\Debug\net9.0-windows\CalculatorClient.dll
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\bin\Debug\net9.0-windows\CalculatorClient.pdb
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.dll
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\refint\CalculatorClient.dll
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.pdb
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\CalculatorClient.genruntimeconfig.cache
+C:\Users\ThinkPad\learning-ujiKom\CalculatorClient\obj\Debug\net9.0-windows\ref\CalculatorClient.dll
